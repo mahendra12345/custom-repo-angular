@@ -1,0 +1,191 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "productName": "Casual Tshirts",
+      "categoryid": 1,
+      "productImg": "http://localhost:4200/assets/c2.jpg",
+      "rating": 5,
+      "review": 202,
+      "vendor-name": "amazon",
+      "description": "This is awesome shirt",
+      "warranty": 2,
+      "price": 800
+    },
+    {
+      "id": 3,
+      "productName": "Casual Tshirts",
+      "categoryid": 1,
+      "productImg": "http://localhost:4200/assets/c3.jpg",
+      "rating": 5,
+      "review": 202,
+      "vendor-name": "amazon",
+      "description": "This is awesome shirt",
+      "warranty": 2,
+      "price": 800
+    },
+    {
+      "id": 4,
+      "productName": "Casual Tshirts",
+      "categoryid": 1,
+      "productImg": "http://localhost:4200/assets/c4.jpg",
+      "rating": 5,
+      "review": 202,
+      "vendor-name": "amazon",
+      "description": "This is awesome shirt",
+      "warranty": 2,
+      "price": 800
+    },
+    {
+      "id": 5,
+      "productName": "Casual Tshirts",
+      "categoryid": 1,
+      "productImg": "http://localhost:4200/assets/c5.jpg",
+      "rating": 5,
+      "review": 202,
+      "vendor-name": "amazon",
+      "description": "This is awesome shirt",
+      "warranty": 2,
+      "price": 800
+    },
+    {
+      "id": 6,
+      "productName": "Party Tshirts",
+      "categoryid": 2,
+      "productImg": "http://localhost:4200/assets/t1.jpg",
+      "rating": 3,
+      "review": 102,
+      "vendor-name": "amazon",
+      "description": "This is awesome shirt",
+      "warranty": 2,
+      "price": 400
+    },
+    {
+      "id": 7,
+      "productName": "Soccer Tshirt",
+      "categoryid": 2,
+      "productImg": "http://localhost:4200/assets/t2.jpg",
+      "rating": 3,
+      "review": 102,
+      "vendor-name": "amazon",
+      "description": "This is awesome shirt",
+      "warranty": 2,
+      "price": 600
+    },
+    {
+      "id": 8,
+      "productName": "Soccer Tshirt",
+      "categoryid": 2,
+      "productImg": "http://localhost:4200/assets/s1.jpg",
+      "rating": 3,
+      "review": 102,
+      "vendor-name": "amazon",
+      "description": "This is awesome shirt",
+      "warranty": 2,
+      "price": 600
+    },
+    {
+      "id": 9,
+      "productName": "Soccer Tshirt",
+      "categoryid": 2,
+      "productImg": "http://localhost:4200/assets/s2.jpg",
+      "rating": 3,
+      "review": 102,
+      "vendor-name": "amazon",
+      "description": "This is awesome shirt",
+      "warranty": 2,
+      "price": 600
+    },
+    {
+      "id": 10,
+      "productName": "Polo Tshirts",
+      "categoryid": 3,
+      "productImg": "http://localhost:4200/assets/t3.jpg",
+      "rating": 3,
+      "review": 102,
+      "vendor-name": "amazon",
+      "description": "This is awesome shirt",
+      "warranty": 3,
+      "price": 600
+    },
+    {
+      "id": 11,
+      "productName": "Polo Tshirts",
+      "categoryid": 3,
+      "productImg": "http://localhost:4200/assets/p1.jpg",
+      "rating": 3,
+      "review": 102,
+      "vendor-name": "amazon",
+      "description": "This is awesome shirt",
+      "warranty": 3,
+      "price": 600
+    },
+    {
+      "id": 12,
+      "productName": "Polo Tshirts",
+      "categoryid": 3,
+      "productImg": "http://localhost:4200/assets/p2.jpg",
+      "rating": 3,
+      "review": 102,
+      "vendor-name": "amazon",
+      "description": "This is awesome shirt",
+      "warranty": 3,
+      "price": 600
+    },
+    {
+      "id": 13,
+      "productName": "Polo Tshirts",
+      "categoryid": 3,
+      "productImg": "http://localhost:4200/assets/p3.jpg",
+      "rating": 3,
+      "review": 102,
+      "vendor-name": "amazon",
+      "description": "This is awesome shirt",
+      "warranty": 3,
+      "price": 600
+    },
+    {
+      "id": 14,
+      "productName": "Golf Tshirts",
+      "categoryid": 3,
+      "productImg": "http://localhost:4200/assets/t4.jpg",
+      "rating": 3,
+      "review": 102,
+      "vendor-name": "amazon",
+      "description": "This is awesome shirt",
+      "warranty": 2,
+      "price": 400
+    },
+    {
+      "id": 15,
+      "productName": "Cosmos Tshirt",
+      "description": "This is new line  of sports tshirt.",
+      "productImg": "",
+      "isAvailable": "1"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Polo Tshirts"
+    },
+    {
+      "id": 2,
+      "categoryName": "Soccer Tshirts"
+    },
+    {
+      "id": 3,
+      "categoryName": "Casual Tshirts"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
